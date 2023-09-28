@@ -1,0 +1,57 @@
+body {
+  width: 100%; /* Définit une largeur à 100% de la fenêtre du navigateur */
+  overflow-x: hidden; /* Masque la barre de défilement horizontale */
+}
+
+.page-link{
+  width:65vw;
+  height: 36vw;
+  background-color: blueviolet;
+  position:absolute;
+  transition: transform 0.6s ease-in-out;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left:50%;
+}
+
+#page0{
+  transform: translate(-50%,-50%);
+}
+
+#page1{
+  transform: translate(75%,-50%);
+}
+
+#page2{
+  transform: translate(200%,-50%);
+}
+#page3{
+  transform: translate(325%,-50%);
+}
+
+#page4{
+  transform: translate(450%,-50%);
+}
+
+#leftButton{
+  position: absolute;
+  width: 4vw;
+  height: 4vw;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  left:17.5%;
+}
+
+#rightButton{
+  position: absolute;
+  width: 4vw;
+  height: 4vw;
+  top: 50%;
+  transform: translate(50%,-50%);
+  right:17.5%;
+}
+
+#content{
+  margin-left: auto;
+  margin-right: auto;
+}
