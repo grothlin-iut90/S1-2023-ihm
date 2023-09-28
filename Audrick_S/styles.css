@@ -1,5 +1,6 @@
 body {
-    margin: auto;
+    width: 100%; /* Définit une largeur à 100% de la fenêtre du navigateur */
+    overflow-x: hidden; /* Masque la barre de défilement horizontale */
   }
   
 #Menu{
