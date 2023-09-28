@@ -1,0 +1,95 @@
+#Menu{
+    width: 5vw;
+    height: 5vw;
+    float: left;
+    margin: 1vw;
+}
+
+#TitleDiv{
+    width:40.4vw;
+    height: 5vw;
+    float: left;
+    margin-right: 1vw;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+}
+
+#TextDiv1{
+    width:46.65vw;
+    max-height: 100%;
+    float: left;
+    margin-left: 1vw;
+    height: 17.65vw;
+}
+
+#TopLeft{
+    width:49vw;
+    height: 25vw;
+    float: left;
+}
+
+#TopRight{
+    width:49vw;
+    height: 25vw;
+    float: left;
+}
+
+#BottomLeft{
+    width:39vw;
+    height: 21vw;
+    float: left;
+}
+#BottomRight{
+    width:56.8vw;
+    height: 21vw;
+    float: left;
+    margin-top: 1vw;
+}
+
+.block{
+    border: solid rgb(0, 0, 0) 2px;
+}
+.blockT{
+    border: solid rgb(0, 0, 0) 2px;
+    margin-top: 1vw;
+}
+.blockD{
+    border: solid rgb(0, 0, 0) 2px;
+    margin-top: 1vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    margin-bottom: 1vw;
+}
+
+#img1{
+    width: 49.9vw;
+    height: 24vw;
+    margin-top: 1vw;
+}
+#img2{
+    width: 37vw;
+    height: 23vw;
+    margin-left: 1vw;
+    margin-top: 1vw;
+}
+
+#img3{
+    width: 56.7vw;
+    height: 20.8vw;
+    flex-shrink: 0;
+    max-width: 100%;
+    max-height: 100%;
+
+}
+#TextDiv1 #img4{
+    width: 46.5vw;
+    height: 17.5vw;
+
+    flex-shrink: 0;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#marginbody{
+    margin: auto;
+}
