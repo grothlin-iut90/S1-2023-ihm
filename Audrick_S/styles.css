@@ -1,0 +1,68 @@
+body {
+    margin: auto;
+  }
+  
+#Menu{
+    width: 5vw;
+    height: 5vw;
+    float: left;
+    margin: 1vw;
+}
+
+#TitleDiv{
+    width:41vw;
+    height: 5vw;
+    float: left;
+    margin-right: 1vw;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+}
+
+#TextDiv1{
+    width:47vw;
+    max-height: 100%;
+    float: left;
+    margin-left: 1vw;
+    height: 18vw;
+}
+
+#TopLeft{
+    width:49vw;
+    height: 25vw;
+    float: left;
+}
+
+#TopRight{
+    width:49vw;
+    height: 25vw;
+    float: left;
+}
+
+#BottomLeft{
+    width:40vw;
+    height: 25vw;
+    float: left;
+}
+#BottomRight{
+    width:58vw;
+    height: 23vw;
+    float: left;
+    margin-top: 1vw;
+}
+
+.block{
+    border: solid rgb(0, 0, 0) 2px;
+}
+
+#img1{
+    width: 49vw;
+    height: 24vw;
+    margin-top: 1vw;
+}
+#img2{
+    width: 38vw;
+    height: 23vw;
+    margin-left: 1vw;
+    margin-top: 1vw;
+}
+
