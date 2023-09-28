@@ -2,13 +2,6 @@ body {
     width: 100%; /* Définit une largeur à 100% de la fenêtre du navigateur */
     overflow-x: hidden; /* Masque la barre de défilement horizontale */
   }
-  
-#Menu{
-    width: 5vw;
-    height: 5vw;
-    float: left;
-    margin: 1vw;
-}
 
 #TitleDiv{
     width:40vw;
@@ -70,3 +63,11 @@ h1{
     text-align: center;
 }
 
+  
+#Menu{
+    width: 5vw;
+    height: 5vw;
+    float: left;
+    margin: 1vw;
+    border: 0px;
+}
