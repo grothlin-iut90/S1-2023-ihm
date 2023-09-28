@@ -40,18 +40,20 @@
     float: left;
 }
 #BottomRight{
-    width:59.9vw;
+    width:58.5vw;
     height: 23vw;
     float: left;
     margin-top: 1vw;
 }
-
+p{
+    text-align: center;
+}
 .block{
     border: solid rgb(0, 0, 0) 2px;
 }
 
 #img1{
-    width: 49.9vw;
+    width: 48.5vw;
     height: 24vw;
     margin-top: 1vw;
 }
@@ -64,4 +66,7 @@
 
 #marginbody{
     margin: auto;
+}
+body{
+    max-width: 100%;
 }
