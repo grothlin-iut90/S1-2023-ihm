@@ -1,18 +1,8 @@
-.burger-menu-btn{
-    background: transparent;
-    position: absolute;
-    top: 3.5vw;
-    left: 3.5vw;
-    transform: translate(-50%, -50%);
-    border: none;
-    cursor: pointer;
-    z-index: 7;
-  }
 .spin-container {
     z-index: 10;
     position: absolute;
-    top: 1vw;
-    left: 1vw;
+    top: 2vw;
+    left: 2vw;
     width: 4vw;
     height: 4vw;
     border-radius: 50%;
