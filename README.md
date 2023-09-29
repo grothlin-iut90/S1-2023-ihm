@@ -13,4 +13,8 @@ Etudiant 4 : [ZIEGLER Teddy](mailto:teddy.ziegler@edu.univ-fcomte.fr?subject=SAE
 
 # Présentation du projet
 Ce projet est dédié à la création d'un site presentatif suite à la demande de Wiko.
-Le site comporte 5 pages dont un menu et quatre articles présentant des aspects différents de l'entreprise.
+Le site comporte 5 pages dont un menu et quatre articles présentant des aspects différents de l'entreprise qui sont les suivant:
+- L’histoire de l’entreprise, principalement la création
+- Les produits vendus
+- La responsabilité sociale et environnementale
+- Une analyse économique chronologique
