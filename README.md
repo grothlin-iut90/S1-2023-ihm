@@ -12,3 +12,5 @@ Etudiant 3 : [MERVAL Mattéo](mailto:matteo.merval@edu.univ-fcomte.fr?subject=SA
 Etudiant 4 : [ZIEGLER Teddy](mailto:teddy.ziegler@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
 
 # Présentation du projet
+Ce projet est dédié à la création d'un site presentatif suite à la demande de Wiko.
+Le site comporte 5 pages dont un menu et quatre articles présentant des aspects différents de l'entreprise.
