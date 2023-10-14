@@ -6,6 +6,7 @@ const pageLink4= document.getElementById("page4");
 const rightBtn = document.getElementById("rightButton");
 const leftBtn = document.getElementById("leftButton");
 let offset = 0
+let interval = 80;
 
 rightBtn.addEventListener("click", () => {
     if(offset<4){
@@ -22,10 +23,15 @@ leftBtn.addEventListener("click", () => {
 })
 
 function page_link_move(){
-    pageLink0.style.transform = "translate(" + (-50-offset*125).toString()  + "%,-50%)";
-    pageLink1.style.transform = "translate(" + (75-offset*125).toString()  + "%,-50%)";
-    pageLink2.style.transform = "translate(" + (200-offset*125).toString()  + "%,-50%)";
-    pageLink3.style.transform = "translate(" + (325-offset*125).toString()  + "%,-50%)";
-    pageLink4.style.transform = "translate(" + (450-offset*125).toString()  + "%,-50%)";
+    pageLink0.style.left = (50-interval*offset).toString() +"%";
+    pageLink1.style.left = (50-interval*offset+interval).toString() +"%";
+    pageLink2.style.left = (50-interval*offset+interval*2).toString() +"%";
+    pageLink3.style.left = (50-interval*offset+interval*3).toString() +"%";
+    pageLink4.style.left = (50-interval*offset+interval*4).toString() +"%";
+    
+
 }
+
+page_link_move();
+
 
