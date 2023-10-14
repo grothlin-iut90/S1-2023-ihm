@@ -1,7 +1,9 @@
 body {
   width: 100%; /* Définit une largeur à 100% de la fenêtre du navigateur */
   overflow-x: hidden; /* Masque la barre de défilement horizontale */
-  background-color: rgb(38, 34, 34);
+  height: 100vh;
+  background: linear-gradient(to bottom right, rgb(0, 0, 0), rgb(36, 36, 36));
+  background-repeat: no-repeat;
 }
 
 .page-link{
@@ -15,7 +17,9 @@ body {
   border-radius: 30px;
   padding: 1%;
   transition-property: right top;
-  transition-duration: 0.8s;
+  transition-duration: 1.5s;
+  box-shadow: 10px 10px 10px;
+  z-index: 0;
 }
 
 #leftButton{

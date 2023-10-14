@@ -28,10 +28,10 @@ function page_link_move(){
     pageLink2.style.left = (50-interval*offset+interval*2).toString() +"%";
     pageLink3.style.left = (50-interval*offset+interval*3).toString() +"%";
     pageLink4.style.left = (50-interval*offset+interval*4).toString() +"%";
-    
-
 }
 
-page_link_move();
+setTimeout(page_link_move, 1000);
+
+
 
 
