@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'QuickSand';
+	src: url('Quicksand.ttf') format("opentype");
+}
+
+
+p{
+    font-family: 'QuickSand';
+}
