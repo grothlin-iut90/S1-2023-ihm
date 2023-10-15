@@ -29,6 +29,7 @@ body {
   top: 50%;
   transform: translate(-50%,-50%);
   left:17.5%;
+  background-image: url(./leftbutton.png); 
 }
 
 #rightButton{
@@ -38,6 +39,7 @@ body {
   top: 50%;
   transform: translate(50%,-50%);
   right:17.5%;
+  background-image: url(./rightbutton.png); 
 }
 
 #content{
@@ -49,4 +51,11 @@ body {
   background-image: url('background.jpg');
   background-repeat: no-repeat;
   background-size: 120%;
+}
+
+button {
+  background-size: cover;
+  width: 4vw; 
+  height: 4vw;
+  border-radius: 50%;
 }
