@@ -58,4 +58,5 @@ button {
   width: 4vw; 
   height: 4vw;
   border-radius: 50%;
+  border-width: 5px;
 }
