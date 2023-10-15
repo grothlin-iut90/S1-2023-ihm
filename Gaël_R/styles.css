@@ -1,72 +1,104 @@
-#Menu{
-    width: 5vw;
-    height: 5vw;
-    float: left;
-    margin: 1vw;
+.barre, .cercle {
+    background-color: cyan;
+    position: relative;
+    left: 50%;
+    z-index: 1;
 }
 
-#TitleDiv{
-    width:40.4vw;
-    height: 5vw;
-    float: left;
-    margin-right: 1vw;
-    margin-top: 1vw;
-    margin-bottom: 1vw;
+.barre {
+    width: 10px;
+    height: 5200px;
 }
 
-#TextDiv1{
-    width:46.65vw;
-    max-height: 100%;
-    float: left;
-    margin-left: 1vw;
-    height: 17.65vw;
+.cercle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    left: 50.45%;
+    transform: translateX(-50%);
+    top: 65%;
+}
+.cercle:nth-child(3) { top: 65%; }
+.cercle:nth-child(4) { top: 130%; }
+.cercle:nth-child(5) { top: 195%; }
+.cercle:nth-child(6) { top: 260%; }
+.cercle:nth-child(7) { top: 325%; }
+.cercle:nth-child(8) { top: 390%; }
+.cercle:nth-child(9) { top: 455%; }
+.cercle:nth-child(10) { top: 520%; }
+.cercle:nth-child(11) { top: 585%; }
+.cercle:nth-child(12) { top: 650%; }
+.cercle:nth-child(13) { top: 715%; }
+.cercle:nth-child(14) { top: 780%;}
+
+.p-container {
+    width: 360px;
+    height: fit-content;
 }
 
-#TopLeft{
-    width:49vw;
-    height: 25vw;
+.p-container:nth-child(odd) {
     float: left;
+    margin-left: 5%;
 }
 
-#TopRight{
-    width:49vw;
-    height: 25vw;
-    float: left;
+.p-container:nth-child(even) {
+    float: right;
+    margin-right: 5%;
 }
 
-#BottomLeft{
-    width:39vw;
-    height: 25vw;
-    float: left;
-}
-#BottomRight{
-    width:58.5vw;
-    height: 23vw;
-    float: left;
-    margin-top: 1vw;
-}
-p{
+p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
-}
-.block{
-    border: solid rgb(0, 0, 0) 2px;
+    height: 31vh;
 }
 
-#img1{
-    width: 48.5vw;
-    height: 24vw;
-    margin-top: 1vw;
-}
-#img2{
-    width: 37vw;
-    height: 23vw;
-    margin-left: 1vw;
-    margin-top: 1vw;
+#p1 {
+    margin-top: -350%;
 }
 
-#marginbody{
-    margin: auto;
+#p2 {
+    margin-top: -320%;
 }
-body{
-    max-width: 100%;
+
+#p3 {
+    margin-top: -287%;
+}
+
+#p4 {
+    margin-top: -257%;
+}
+
+#p5 {
+    margin-top: -223%;
+}
+
+#p6 {
+    margin-top: -194%;
+}
+
+#p7 {
+    margin-top: -162%;
+}
+
+#p8 {
+    margin-top: -130%;
+}
+
+#p9 {
+    margin-top: -99%;
+}
+
+#p10 {
+    margin-top: -69%;
+}
+
+#p11 {
+    margin-top: -36%;
+}
+
+#p12 {
+    margin-top: -6%;
 }
