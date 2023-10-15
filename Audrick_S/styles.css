@@ -45,6 +45,7 @@ body {
 
 .block{
     border: solid rgb(0, 0, 0) 2px;
+    
 }
 
 #img1{
@@ -59,10 +60,6 @@ body {
     margin-top: 1vw;
 }
 
-h1{
-    text-align: center;
-}
-
   
 #Menu{
     width: 5vw;
@@ -70,4 +67,9 @@ h1{
     float: left;
     margin: 1vw;
     border: 0px;
+}
+
+p, h1,h2,h3,h4{
+    padding-left: 10px;
+    padding-right:10px;
 }

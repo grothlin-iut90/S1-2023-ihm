@@ -3,7 +3,32 @@
 	src: url('Quicksand.ttf') format("opentype");
 }
 
+@font-face {
+	font-family: 'Karla';
+	src: url('Karla/Karla-Regular.ttf') format("truetype");
+}
+
+@font-face {
+	font-family: 'Karla';
+	font-weight: bold;
+	src: url('Karla/Karla-Bold.ttf') format("truetype");
+}
+
 
 p{
     font-family: 'QuickSand';
 }
+
+h1{
+	color: #0B162C ;
+}
+
+h2{
+	color: #5FC2BA;
+}
+
+h1,h2,h3,h4,h5{
+	font-family: 'Karla';
+	font-weight: bold;
+}
+
