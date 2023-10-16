@@ -20,15 +20,16 @@
     padding-right: 4%;
 }
 
-img{
+.right img{
     display: block;
     width: 60%;
     margin: auto;
 }
 
-h1{
+#Title{
     text-decoration: underline;
     font-size: 300%;
+    padding-top: 2%;
 }
 
 .right, .left, h1{
@@ -46,3 +47,4 @@ h1{
 .medium{
     width:50%;
 }
+
