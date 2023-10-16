@@ -35,7 +35,8 @@
 .p-container {
     width: 30vw;
     height: fit-content;
-    padding: 0.9%;
+    padding-left: 0.9%;
+    padding-right: 0.9%;
     border: 2px solid black;
 }
 
