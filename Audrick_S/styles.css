@@ -1,4 +1,4 @@
-.body{
+body{
     width: 100%;
 }
 
@@ -54,7 +54,7 @@ p{
 }
 
 hr{
-    border-radius: 30px;
+    border-radius: 50px;
     margin-bottom:  6%;
     background-color: #0B162C ;
     color:#0B162C ;
@@ -62,4 +62,8 @@ hr{
     margin-left: auto;
     margin-right: auto;
     height: 0.5vw;
+}
+
+img{
+    border-radius: 30px;
 }
