@@ -1,5 +1,6 @@
 .body{
     width: 100%;
+    overflow-y: hidden;
 }
 
 .row{
@@ -87,9 +88,9 @@ p{
 .cercle:nth-child(4) { top: 31%; }
 .cercle:nth-child(5) { top: 38.5%; }
 .cercle:nth-child(6) { top: 47%; }
-.cercle:nth-child(7) { top: 57%; }
-.cercle:nth-child(8) { top: 67%; }
-.cercle:nth-child(9) { top: 75.6%; }
+.cercle:nth-child(7) { top: 57.5%; }
+.cercle:nth-child(8) { top: 67.5%; }
+.cercle:nth-child(9) { top: 76.5%; }
 .cercle:nth-child(10) { top: 83%; }
-.cercle:nth-child(11) { top: 90.5%; }
-.cercle:nth-child(12) { top: 98%; }
+.cercle:nth-child(11) { top: 91%; }
+.cercle:nth-child(12) { top: 99%; }
