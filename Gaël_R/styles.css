@@ -25,11 +25,20 @@ img{
     width: 60%;
     margin: auto;
     border-radius: 5px;
+    z-index: -2;
 }
 
 h1{
     text-decoration: underline;
     font-size: 300%;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 10vh;
 }
 
 .right, .left, h1{
@@ -47,3 +56,40 @@ h1{
 .medium{
     width:50%;
 }
+
+.barre,
+.cercle {
+    background-color: cyan;
+    position: relative;
+    left: 50%;
+    z-index: -1;
+}
+
+.barre {
+    width: 10px;
+    height: 693vh;
+    margin-top: -8.5vh;
+}
+
+.cercle {
+    width: 5vw;
+    height: 5vw;
+    border-radius: 50%;
+    position: absolute;
+    left: 50.6%;
+    transform: translateX(-50%);
+    top: 65%;
+}
+
+.cercle:nth-child(1) { top: 6%; }
+.cercle:nth-child(2) { top: 13.8%; }
+.cercle:nth-child(3) { top: 22.3%; }
+.cercle:nth-child(4) { top: 31%; }
+.cercle:nth-child(5) { top: 38.5%; }
+.cercle:nth-child(6) { top: 47%; }
+.cercle:nth-child(7) { top: 57%; }
+.cercle:nth-child(8) { top: 67%; }
+.cercle:nth-child(9) { top: 75.6%; }
+.cercle:nth-child(10) { top: 83%; }
+.cercle:nth-child(11) { top: 90.5%; }
+.cercle:nth-child(12) { top: 98%; }
