@@ -33,7 +33,7 @@
 .cercle:nth-child(14) { top: 780vh;}
 
 .p-container {
-    width: 18.75vw;
+    width: 30vw;
     height: fit-content;
     padding: 0.9%;
     border: 2px solid black;
@@ -46,7 +46,7 @@
 
 .p-container:nth-child(even) {
     float: right;
-    margin-right: 5%;
+    margin-right: 10vw;
 }
 
 p {
@@ -67,15 +67,15 @@ p {
 }
 
 #p3 {
-    margin-top: -287%;
+    margin-top: -600vh;
 }
 
 #p4 {
-    margin-top: -257%;
+    margin-top: -535vh;
 }
 
 #p5 {
-    margin-top: -223%;
+    margin-top: -466vh;
 }
 
 #p6 {
