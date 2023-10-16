@@ -95,7 +95,7 @@ p{
 .cercle:nth-child(12) { top: 99%; }
 }
 
-@media (min-width: 1920px) {
+@media (min-width: 1900px) {
     .barre {
         width: 10px;
         height: 570vh;
