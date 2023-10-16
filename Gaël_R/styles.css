@@ -1,21 +1,21 @@
 .barre, .cercle {
     background-color: cyan;
     position: relative;
-    left: 50%;
+    left: 49.5vw;
     z-index: 1;
 }
 
 .barre {
-    width: 10px;
+    width: 1vw;
     height: 790vh;
 }
 
 .cercle {
-    width: 200px;
-    height: 200px;
+    width: 15vw;
+    height: 30vh;
     border-radius: 50%;
     position: absolute;
-    left: 50.45%;
+    left: 50vw;
     transform: translateX(-50%);
     top: 65%;
 }
@@ -33,7 +33,7 @@
 .cercle:nth-child(14) { top: 780%;}
 
 .p-container {
-    width: 360px;
+    width: 18.75vw;
     height: fit-content;
 }
 
@@ -56,11 +56,11 @@ p {
 }
 
 #p1 {
-    margin-top: -350%;
+    margin-top: -725vh;
 }
 
 #p2 {
-    margin-top: -320%;
+    margin-top: -662vh;
 }
 
 #p3 {
