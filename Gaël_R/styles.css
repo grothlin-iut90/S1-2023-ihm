@@ -1,40 +1,43 @@
 .barre, .cercle {
     background-color: cyan;
     position: relative;
-    left: 50%;
+    left: 49.5vw;
     z-index: 1;
 }
 
 .barre {
-    width: 10px;
+    width: 1vw;
     height: 790vh;
 }
 
 .cercle {
-    width: 200px;
-    height: 200px;
+    width: 15vw;
+    height: 30vh;
     border-radius: 50%;
     position: absolute;
-    left: 50.45%;
+    left: 50vw;
     transform: translateX(-50%);
-    top: 65%;
+    top: 65vh;
 }
-.cercle:nth-child(3) { top: 65%; }
-.cercle:nth-child(4) { top: 130%; }
-.cercle:nth-child(5) { top: 195%; }
-.cercle:nth-child(6) { top: 260%; }
-.cercle:nth-child(7) { top: 325%; }
-.cercle:nth-child(8) { top: 390%; }
-.cercle:nth-child(9) { top: 455%; }
-.cercle:nth-child(10) { top: 520%; }
-.cercle:nth-child(11) { top: 585%; }
-.cercle:nth-child(12) { top: 650%; }
-.cercle:nth-child(13) { top: 715%; }
-.cercle:nth-child(14) { top: 780%;}
+.cercle:nth-child(3) { top: 65vh; }
+.cercle:nth-child(4) { top: 130vh; }
+.cercle:nth-child(5) { top: 195vh; }
+.cercle:nth-child(6) { top: 260vh; }
+.cercle:nth-child(7) { top: 325vh; }
+.cercle:nth-child(8) { top: 390vh; }
+.cercle:nth-child(9) { top: 455vh; }
+.cercle:nth-child(10) { top: 520vh; }
+.cercle:nth-child(11) { top: 585vh; }
+.cercle:nth-child(12) { top: 650vh; }
+.cercle:nth-child(13) { top: 715vh; }
+.cercle:nth-child(14) { top: 780vh;}
 
 .p-container {
-    width: 360px;
+    width: 30vw;
     height: fit-content;
+    padding-left: 0.9%;
+    padding-right: 0.9%;
+    border: 2px solid black;
 }
 
 .p-container:nth-child(odd) {
@@ -44,7 +47,7 @@
 
 .p-container:nth-child(even) {
     float: right;
-    margin-right: 5%;
+    margin-right: 10vw;
 }
 
 p {
@@ -53,26 +56,27 @@ p {
     align-items: center;
     text-align: center;
     height: 31vh;
+    font-size: 150%;
 }
 
 #p1 {
-    margin-top: -350%;
+    margin-top: -725vh;
 }
 
 #p2 {
-    margin-top: -320%;
+    margin-top: -662vh;
 }
 
 #p3 {
-    margin-top: -287%;
+    margin-top: -600vh;
 }
 
 #p4 {
-    margin-top: -257%;
+    margin-top: -535vh;
 }
 
 #p5 {
-    margin-top: -223%;
+    margin-top: -466vh;
 }
 
 #p6 {
