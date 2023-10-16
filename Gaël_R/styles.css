@@ -95,11 +95,11 @@ p{
 .cercle:nth-child(12) { top: 99%; }
 }
 
-@media (max-width: 1920px) {
+@media (min-width: 1920px) {
     .barre {
         width: 10px;
         height: 570vh;
-        margin-top: -5.8vh;
+        margin-top: -8vh;
     }
     
     .cercle {
