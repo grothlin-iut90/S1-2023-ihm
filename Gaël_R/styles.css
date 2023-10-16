@@ -5,7 +5,7 @@
 .row{
     width: 100%;
     display: block;
-    border: solid rgba(0,0,0,0) 1px;
+    border: solid rgba(0,0,0,1) 1px;
     margin-top: 10%;
     float: right;
 }
@@ -24,6 +24,7 @@ img{
     display: block;
     width: 60%;
     margin: auto;
+    border-radius: 5px;
 }
 
 h1{
