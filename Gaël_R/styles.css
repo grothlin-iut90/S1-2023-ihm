@@ -35,6 +35,8 @@
 .p-container {
     width: 18.75vw;
     height: fit-content;
+    padding: 0.9%;
+    border: 2px solid black;
 }
 
 .p-container:nth-child(odd) {
@@ -53,6 +55,7 @@ p {
     align-items: center;
     text-align: center;
     height: 31vh;
+    font-size: 150%;
 }
 
 #p1 {
