@@ -1,108 +1,48 @@
-.barre, .cercle {
-    background-color: cyan;
-    position: relative;
-    left: 49.5vw;
-    z-index: 1;
+.body{
+    width: 100%;
 }
 
-.barre {
-    width: 1vw;
-    height: 790vh;
-}
-
-.cercle {
-    width: 15vw;
-    height: 30vh;
-    border-radius: 50%;
-    position: absolute;
-    left: 50vw;
-    transform: translateX(-50%);
-    top: 65vh;
-}
-.cercle:nth-child(3) { top: 65vh; }
-.cercle:nth-child(4) { top: 130vh; }
-.cercle:nth-child(5) { top: 195vh; }
-.cercle:nth-child(6) { top: 260vh; }
-.cercle:nth-child(7) { top: 325vh; }
-.cercle:nth-child(8) { top: 390vh; }
-.cercle:nth-child(9) { top: 455vh; }
-.cercle:nth-child(10) { top: 520vh; }
-.cercle:nth-child(11) { top: 585vh; }
-.cercle:nth-child(12) { top: 650vh; }
-.cercle:nth-child(13) { top: 715vh; }
-.cercle:nth-child(14) { top: 780vh;}
-
-.p-container {
-    width: 30vw;
-    height: fit-content;
-    padding-left: 0.9%;
-    padding-right: 0.9%;
-    border: 2px solid black;
-}
-
-.p-container:nth-child(odd) {
-    float: left;
-    margin-left: 5%;
-}
-
-.p-container:nth-child(even) {
+.row{
+    width: 100%;
+    display: block;
+    border: solid rgba(0,0,0,0) 1px;
+    margin-top: 10%;
     float: right;
-    margin-right: 10vw;
 }
 
-p {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    height: 31vh;
-    font-size: 150%;
+.right{
+    float: right;
+    padding-right: 5%;
 }
 
-#p1 {
-    margin-top: -725vh;
+.left{
+    float: left;
+    padding-right: 4%;
 }
 
-#p2 {
-    margin-top: -662vh;
+img{
+    display: block;
+    width: 60%;
+    margin: auto;
 }
 
-#p3 {
-    margin-top: -600vh;
+h1{
+    text-decoration: underline;
+    font-size: 300%;
 }
 
-#p4 {
-    margin-top: -535vh;
+.right, .left, h1{
+    padding-left: 6%;
 }
 
-#p5 {
-    margin-top: -466vh;
+.large{
+    width: 65%;
 }
 
-#p6 {
-    margin-top: -194%;
+.small{
+    width: 35%;
 }
 
-#p7 {
-    margin-top: -162%;
-}
-
-#p8 {
-    margin-top: -130%;
-}
-
-#p9 {
-    margin-top: -99%;
-}
-
-#p10 {
-    margin-top: -69%;
-}
-
-#p11 {
-    margin-top: -36%;
-}
-
-#p12 {
-    margin-top: -6%;
+.medium{
+    width:50%;
 }
