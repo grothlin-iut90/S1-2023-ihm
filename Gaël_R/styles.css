@@ -6,7 +6,7 @@
 .row{
     width: 100%;
     display: block;
-    border: solid rgba(0,0,0,1) 1px;
+    border: solid rgba(0,0,0,0) 1px;
     margin-top: 10%;
     float: right;
 }
@@ -65,10 +65,10 @@ p{
     left: 50%;
     z-index: -1;
 }
-
+@media (max-width: 1366px) {
 .barre {
     width: 10px;
-    height: 693vh;
+    height: 610vh;
     margin-top: -8.5vh;
 }
 
@@ -81,16 +81,20 @@ p{
     transform: translateX(-50%);
     top: 65%;
 }
-
-.cercle:nth-child(1) { top: 6%; }
-.cercle:nth-child(2) { top: 13.8%; }
-.cercle:nth-child(3) { top: 22.3%; }
-.cercle:nth-child(4) { top: 31%; }
-.cercle:nth-child(5) { top: 38.5%; }
-.cercle:nth-child(6) { top: 47%; }
-.cercle:nth-child(7) { top: 57.5%; }
-.cercle:nth-child(8) { top: 67.5%; }
-.cercle:nth-child(9) { top: 76.5%; }
-.cercle:nth-child(10) { top: 83%; }
-.cercle:nth-child(11) { top: 91%; }
+.cercle:nth-child(1) { top: 7%; }
+.cercle:nth-child(2) { top: 15.5%; }
+.cercle:nth-child(3) { top: 24%; }
+.cercle:nth-child(4) { top: 32.5%; }
+.cercle:nth-child(5) { top: 41%; }
+.cercle:nth-child(6) { top: 49.6%; }
+.cercle:nth-child(7) { top: 58.5%; }
+.cercle:nth-child(8) { top: 66.5%; }
+.cercle:nth-child(9) { top: 75%; }
+.cercle:nth-child(10) { top: 84%; }
+.cercle:nth-child(11) { top: 91.5%; }
 .cercle:nth-child(12) { top: 99%; }
+}
+
+@media (min-width: 1920px;) {
+
+}
