@@ -65,7 +65,7 @@ p{
     left: 50%;
     z-index: -1;
 }
-@media (max-width: 1366px) {
+@media (max-width: 1400px) {
 .barre {
     width: 10px;
     height: 610vh;
@@ -95,7 +95,7 @@ p{
 .cercle:nth-child(12) { top: 99%; }
 }
 
-@media (min-width: 1900px) {
+@media (min-width: 2000px) {
     .barre {
         width: 10px;
         height: 570vh;
