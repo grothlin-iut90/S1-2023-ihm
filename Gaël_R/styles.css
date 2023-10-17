@@ -75,15 +75,15 @@ p{
     transform: translateX(-50%);
     top: 65%;
 }
-@media (max-width: 1366px) {
+@media (max-width: 1400px) {
     .barre {
         width: 10px;
         height: 610vh;
-        margin-top: -8.5vh;
+        margin-top: -5.6vh;
     }
 }
 
-@media (min-width: 1920px) {
+@media (min-width: 1900px) {
     .barre {
         width: 10px;
         height: 570vh;
