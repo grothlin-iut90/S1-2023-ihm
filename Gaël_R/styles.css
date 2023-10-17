@@ -80,7 +80,7 @@ p{
     transform: translateX(-50%);
     top: 65%;
 }
-@media (width: 1366px) {
+@media (min-width: 1366px) {
     .barre {
         width: 10px;
         height: 610vh;
@@ -88,11 +88,11 @@ p{
     }
 }
 
-@media (width: 1920px) {
+@media (max-width: 1920px) {
     .barre {
         width: 10px;
         height: 570vh;
-        margin-top: -5vh;
+        margin-top: -3.9vh;
     }
 }
 
