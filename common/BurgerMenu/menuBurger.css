@@ -63,22 +63,25 @@ body {
 
 .nav-container .hamburger-lines {
   display: block;
-  height: 26px;
-  width: 32px;
+  height: 34px;
+  width: 40px;
   position: fixed;
   top: 17px;
   left: 18px;
   z-index: 2;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-around;
   z-index: 3;
+  background-color: #252525;
+  border-radius: 5px;
 }
 
 .nav-container .hamburger-lines .line {
+  margin-left: 3px;
   display: block;
   height: 4px;
-  width: 100%;
+  width: 82%;
   border-radius: 10px;
   background: #FFFFFF;
   z-index: 3;
