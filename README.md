@@ -18,9 +18,9 @@ Ce dépôt correspond à un site web créé en HTML/CSS/JS dans le cadre de la S
 Ce site comporte 5 pages dont un menu et quatre articles présentant des aspects différents de l'entreprise qui sont les suivant:
 - Le menu (RÖTHLIN Gaël, SOLTNER Audrick)
 - L’histoire de l’entreprise (RÖTHLIN Gaël)
-- Les produits vendus (MERVAL Mattéo) 
-- La responsabilité sociale et environnementale (SOLTNER Audrick)
-- Une analyse économique chronologique (ZIEGLER Teddy)
+- Les produits et services vendus (MERVAL Mattéo)
+- Une analyse économique (ZIEGLER Teddy) 
+- Les incidents et controverses(SOLTNER Audrick)
 
 ## Choix de conception  
 
