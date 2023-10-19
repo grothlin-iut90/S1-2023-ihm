@@ -30,7 +30,7 @@ function page_link_move(){
     pageLink4.style.left = (50-interval*offset+interval*4).toString() +"%";
 }
 
-setTimeout(page_link_move, 1000);
+setTimeout(page_link_move, 500);
 
 
 
