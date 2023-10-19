@@ -30,7 +30,7 @@ Pour la conception du site, nous nous sommes grandement inspirés des sites offi
 
 ### Page d'accueil
 
-**Auteur : SOLTNER Audrick GRÖTHLIN Gaël**  
+**Auteur : SOLTNER Audrick et GRÖTHLIN Gaël**  
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2Findex.html)
 
@@ -40,6 +40,15 @@ ou
 
 <img src="doc/capture_1_W3C.png" style="width=400px" alt="capture ecran sur w3c">
 
+### Histoire de l'entreprise
+
+**Auteur : GRÖTHLIN Gaël**  
+
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FGa%25C3%25ABl_R%2FPage1.html)
+
+<br>
+<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
+
 
 <!--  style="width=400px" ne fonctionne pas -->
 
@@ -48,6 +57,15 @@ ou
 **Auteur : Nom Prénom**  
 
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+
+<br>
+<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
+
+### Produits et services
+
+**Auteur : MERVAL Mattéo**  
+
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FMatt%25C3%25A9o_M%2FPage1.html)
 
 <br>
 <img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
