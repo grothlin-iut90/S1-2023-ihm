@@ -15,7 +15,7 @@ Etudiant 4 : [ZIEGLER Teddy](mailto:teddy.ziegler@edu.univ-fcomte.fr?subject=SAE
 Ce projet est dédié à la création d'un site presentatif suite à la demande de Wiko.
 Le site comporte 5 pages dont un menu et quatre articles présentant des aspects différents de l'entreprise qui sont les suivant:
 - Le menu (RÖTHLIN Gaël, SOLTNER Audrick)
-- L’histoire de l’entreprise, principalement la création (RÖTHLIN Gaël)
+- L’histoire de l’entreprise (RÖTHLIN Gaël)
 - Les produits vendus (MERVAL Mattéo) 
 - La responsabilité sociale et environnementale (SOLTNER Audrick)
 - Une analyse économique chronologique (ZIEGLER Teddy)
