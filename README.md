@@ -68,7 +68,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FTeddy_Z%2Fpageteddy.html)
 
 <br>
-<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
+<img src="Validator/ValidIncident.png" width="400px" alt="capture ecran sur w3c">
 
 ### Présentation des incidents et controverses
 
@@ -77,7 +77,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FAudrick_S%2Fpage.html)
 
 <br>
-<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
+<img src="/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
 
 
 ## Répartition du travail
