@@ -30,7 +30,7 @@ Pour la conception du site, nous nous sommes grandement inspirés des sites offi
 
 ### Page d'accueil
 
-**Auteur : SOLTNER Audrick et GRÖTHLIN Gaël**  
+**Auteur : SOLTNER Audrick et RÖTHLIN Gaël**  
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2Findex.html)
 
@@ -42,7 +42,7 @@ ou
 
 ### Histoire de l'entreprise
 
-**Auteur : GRÖTHLIN Gaël**  
+**Auteur : RÖTHLIN Gaël**  
 
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FGa%25C3%25ABl_R%2FPage1.html)
 
