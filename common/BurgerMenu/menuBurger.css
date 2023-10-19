@@ -101,7 +101,7 @@ body {
   padding-top: 120px;
   background-color:rgba(94, 71, 76, 0.95);
   height: 100vh;
-  width: 100%;
+  width: 300px;
   transform: translate(-150%);
   display:flex;
   flex-direction: column;
@@ -128,7 +128,7 @@ body {
 }
 
 .nav-container input[type="checkbox"]:checked ~ .menu-items {
-  transform: translateX(0);
+  transform: translateX(0px);
 }
 
 .nav-container input[type="checkbox"]:checked ~ .hamburger-lines .line1 {
@@ -141,4 +141,10 @@ body {
 
 .nav-container input[type="checkbox"]:checked ~ .hamburger-lines .line3 {
   transform: rotate(-45deg);
+}
+
+
+nav a:hover{
+  background-color: rgba(100, 100, 100, 0.8);
+  border-radius: 10px;
 }

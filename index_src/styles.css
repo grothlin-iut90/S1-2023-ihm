@@ -2,7 +2,7 @@ body {
   width: 100%; /* Définit une largeur à 100% de la fenêtre du navigateur */
   overflow-x: hidden; /* Masque la barre de défilement horizontale */
   height: 100vh;
-  background: linear-gradient(to bottom right, rgb(0, 0, 0), rgb(36, 36, 36));
+  background: white;
   background-repeat: no-repeat;
 }
 
