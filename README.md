@@ -32,7 +32,7 @@ Pour la conception du site, nous nous sommes grandement inspirés des sites offi
 
 **Auteur : SOLTNER Audrick et RÖTHLIN Gaël**  
 
-Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2Findex.html)
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FAudrick_S%2Fpage.html)
 
 ![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
 
@@ -52,15 +52,6 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 
 <!--  style="width=400px" ne fonctionne pas -->
 
-### Présentation générale
-
-**Auteur : Nom Prénom**  
-
-Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
-
-<br>
-<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
-
 ### Produits et services
 
 **Auteur : MERVAL Mattéo**  
@@ -70,42 +61,54 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 <br>
 <img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
 
-### Présentation des incidents et controverses
+### Présentation générale
 
+**Auteur : ZIEGLER Teddy**  
+
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FTeddy_Z%2Fpageteddy.html)
+
+<br>
+<img src="Validator/ValidIncident.png" width="400px" alt="capture ecran sur w3c">
+
+### Présentation des incidents et controverses
 
 **Auteur : SOLTNER Audrick**  
 
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FAudrick_S%2Fpage.html)
 
 <br>
-<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
+<img src="ValidatorW3C/ValidIncident.png" width="400px" alt="capture ecran sur w3c">
 
 
 ## Répartition du travail
 
 ### Planification - Diagramme de GANTT
 
-- Nom Prénom
+- MERVAL Mattéo
 
 ### Recherches d'informations
 
-- Nom Prénom
-- Nom Prénom
-
+- RÖTHLIN Gaël
+- MERVAL Mattéo
+- ZIEGLER Teddy
+- SOLTNER Audrick
 
 ### Rapport économique
 
-- Nom Prénom
-- Nom Prénom
-- Nom Prénom
+- RÖTHLIN Gaël
+- MERVAL Mattéo
+- ZIEGLER Teddy
+- SOLTNER Audrick
 
 ### Développement site
 
-- Nom Prénom
-  - Page d’accueil
-  - "Template" de page (Navbar/Footer)
-  - Page présentation
-- Nom Prénom
+- RÖTHLIN Gaël
+  - Menu et "Template" de page (Navbar/Footer)
   - Page histoire
-- Nom Prénom
-  - Page organisation
+- MERVAL Mattéo
+  - Page produit
+- ZIEGLER Teddy
+  - Page économie 
+- SOLTNER Audrick
+  - Menu   
+  - Page incidents
