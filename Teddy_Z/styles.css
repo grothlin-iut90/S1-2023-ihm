@@ -39,11 +39,11 @@
 }
 
 .block{
-    border: solid rgb(0, 0, 0) 2px;
+    border: solid rgb(0, 0, 0) 0px;
 }
 
 #img1{
-    width: 100%;
+    width: 80%;
     height: 24vw;
     margin-top: 1vw;
 }
