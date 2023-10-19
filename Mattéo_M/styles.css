@@ -19,7 +19,7 @@
 }
   
 .flex-child-element img{
-    max-width: 100%; 
+    max-width: 75%; 
     height: auto;
 }
 .flex-child-element p{
@@ -55,5 +55,10 @@ footer{
     float: right;
 }
 footer img {
-    width: 20%;
+    width: 15%;
+}
+img{
+    -moz-border-radius:7px;
+    -webkit-border-radius:7px;
+    border-radius:7px;
 }
