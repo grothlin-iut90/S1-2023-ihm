@@ -47,7 +47,7 @@ ou
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FGa%25C3%25ABl_R%2FPage1.html)
 
 <br>
-<img src="Validator/ValidHistory.png" width="400px" alt="capture ecran sur w3c">
+<img src="ValidatorW3C/ValidHistory.png" width="400px" alt="capture ecran sur w3c">
 
 
 <!--  style="width=400px" ne fonctionne pas -->
