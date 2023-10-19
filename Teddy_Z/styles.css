@@ -79,11 +79,14 @@ hr{
 
 #bas{
     position:absolute;
-    height: 5vw;
     width: 100%;
-    background-color: black;
-    border-color: yellow;
+    background-color: #252525;
     top: 120%;
     color: white;
     text-align: center;
+}
+
+.img-dim{
+    width: 20%;
+    right: auto;
 }
