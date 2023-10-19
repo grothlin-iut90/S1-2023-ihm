@@ -68,6 +68,7 @@ hr{
 img{
     border-radius: 30px;
 }
+
 .fade-in {
     opacity: 0;
     transition: opacity 0.5s ease-in-out; 
@@ -94,4 +95,12 @@ footer{
 
 footer img{
     width: 20%;
+}
+
+#img_pollution{
+    width: 90%;
+}
+
+#img_ondes{
+    width: 80%;
 }
