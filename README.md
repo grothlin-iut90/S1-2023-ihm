@@ -24,16 +24,15 @@ Ce site comporte 5 pages dont un menu et quatre articles présentant des aspects
 
 ## Choix de conception  
 
-Pour la conception du site, nous nous sommes grandement inspirés des sites officiels [Crustac](http://crustac.fr), [Adveris](https://www.adveris.fr/) ainsi que du site [Dreamingwithjeff](http://www.dreamingwithjeff.com) et nous avons pris comme référence la charte de ************** disponible [ici](doc/charte_graphique.pdf).    
-
+Pour la conception du site, nous nous sommes grandement inspirés des sites officiels [Crustac](http://crustac.fr), [Adveris](https://www.adveris.fr/) ainsi que du site [Dreamingwithjeff](http://www.dreamingwithjeff.com).
 
 ## Développement Site Web et Validation des pages
 
 ### Page d'accueil
 
-**Auteur : Nom Prénom**  
+**Auteur : SOLTNER Audrick GRÖTHLIN Gaël**  
 
-Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html)
+Vérification W3C : [Détail ICI]([https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fdemo-am90.github.io%2Fs1-demo%2Findex.html](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2Findex.html))
 
 
 ![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
@@ -54,6 +53,15 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 <br>
 <img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
 
+### Présentation des incidents et controverses
+
+
+**Auteur : SOLTNER Audrick**  
+
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FAudrick_S%2Fpage.html)
+
+<br>
+<img src="doc/capture_1_W3C.png" width="400px" alt="capture ecran sur w3c">
 
 
 ## Répartition du travail
