@@ -47,7 +47,7 @@ ou
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FGa%25C3%25ABl_R%2FPage1.html)
 
 <br>
-<img src="Validator/ValidHistory.PNG" width="400px" alt="capture ecran sur w3c">
+<img src="Validator/ValidHistory.png" width="400px" alt="capture ecran sur w3c">
 
 
 <!--  style="width=400px" ne fonctionne pas -->
@@ -59,7 +59,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FMatt%25C3%25A9o_M%2FPage1.html)
 
 <br>
-<img src="ValidatorW3C/ValidProduit.png" width="400px" alt="capture ecran sur w3c">
+<img src="ValidatorW3C/Valid produit.png" width="400px" alt="capture ecran sur w3c">
 
 ### Présentation générale
 
