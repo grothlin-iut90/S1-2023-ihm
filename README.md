@@ -24,7 +24,7 @@ Ce site comporte 5 pages dont un menu et quatre articles présentant des aspects
 
 ## Choix de conception  
 
-Pour la conception du site, nous nous sommes grandement inspirés du site officiel de ******* (disponible [ici](https://www.entreprise.com/fr-fr/)), du site d'un de ses principaux concurrents [xxxxxxxxxx](https://www.entreprise2.fr/) et nous avons pris comme référence la charte de ************** disponible [ici](doc/charte_graphique.pdf).    
+Pour la conception du site, nous nous sommes grandement inspirés des sites officiels [Crustac](http://crustac.fr), [Adveris](https://www.adveris.fr/) ainsi que du site [Dreamingwithjeff](http://www.dreamingwithjeff.com) et nous avons pris comme référence la charte de ************** disponible [ici](doc/charte_graphique.pdf).    
 
 
 ## Développement Site Web et Validation des pages
