@@ -34,11 +34,7 @@ Pour la conception du site, nous nous sommes grandement inspirés des sites offi
 
 Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FAudrick_S%2Fpage.html)
 
-![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
-
-ou 
-
-<img src="doc/capture_1_W3C.png" style="width=400px" alt="capture ecran sur w3c">
+![capture d'écran de la conformité de la page ...](ValidatorW3C/ValidMenu.PNG)
 
 ### Histoire de l'entreprise
 
@@ -47,7 +43,7 @@ ou
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FGa%25C3%25ABl_R%2FPage1.html)
 
 <br>
-<img src="Validator/ValidHistory.png" width="400px" alt="capture ecran sur w3c">
+<img src="ValidatorW3C/ValidHistory.png" alt="capture ecran sur w3c">
 
 
 <!--  style="width=400px" ne fonctionne pas -->
@@ -59,7 +55,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FMatt%25C3%25A9o_M%2FPage1.html)
 
 <br>
-<img src="ValidatorW3C/ValidProduit.png" width="400px" alt="capture ecran sur w3c">
+<img src="ValidatorW3C/Valid produit.png" alt="capture ecran sur w3c">
 
 ### Présentation générale
 
@@ -68,7 +64,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FTeddy_Z%2Fpageteddy.html)
 
 <br>
-<img src="ValidatorW3C/ValidHystory.png" width="400px" alt="capture ecran sur w3c">
+<img src="ValidatorW3C/ValidAnalyseEco.png" alt="capture ecran sur w3c">
 
 ### Présentation des incidents et controverses
 
@@ -77,7 +73,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FAudrick_S%2Fpage.html)
 
 <br>
-<img src="ValidatorW3C/ValidIncident.png" width="400px" alt="capture ecran sur w3c">
+<img src="ValidatorW3C/ValidIncident.png" alt="capture ecran sur w3c">
 
 
 ## Répartition du travail
