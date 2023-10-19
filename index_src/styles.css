@@ -23,8 +23,8 @@ body {
 }
 
 .page-link:hover{
-  width: 71.5vw;
-  height:39.6vw;
+  width: 68.25vw;
+  height: 37.8vw;
 }
 
 #leftButton{
@@ -34,7 +34,7 @@ body {
   top: 50%;
   transform: translate(-50%,-50%);
   left:17.5%;
-  background-image: url(./leftbutton.png); 
+  background-image: url('./leftbutton.png'); 
 }
 
 #rightButton{
@@ -44,7 +44,7 @@ body {
   top: 50%;
   transform: translate(50%,-50%);
   right:17.5%;
-  background-image: url(./rightbutton.png); 
+  background-image: url('./rightbutton.png'); 
 }
 
 #content{
