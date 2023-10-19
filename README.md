@@ -32,7 +32,7 @@ Pour la conception du site, nous nous sommes grandement inspirés des sites offi
 
 **Auteur : SOLTNER Audrick et GRÖTHLIN Gaël**  
 
-Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2Findex.html)
+Vérification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FAudrick_S%2Fpage.html)
 
 ![capture d'écran de la conformité de la page ...](doc/capture_1_W3C.png)
 
