@@ -110,21 +110,17 @@ p {
 .cercle:nth-child(12) { top: 99%; }
 
 footer{
+    width: 100%;
     background-color: #252525;
-    margin-top: 7%;
-}
-
-.white {
     color: white;
-    justify-content: center;
-    align-items: center;
     text-align: center;
-    height: 10vh;
+    display: block;
+    border: solid rgba(0,0,0,0) 1px;
+    float: right;
 }
 
-.img-dim{
+footer img{
     width: 20%;
-    right: auto;
 }
 
 
