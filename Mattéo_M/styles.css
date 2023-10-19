@@ -1,95 +1,67 @@
-#Menu{
-    width: 5vw;
-    height: 5vw;
-    float: left;
-    margin: 1vw;
+.text_img {
+    display: flex;
+    border: solid 1px black;
+}
+.box {
+    display: flex;
+}
+.parent {
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+}
+.child {
+    display: inline-block;
+    border: 1px solid red;
+    padding: 1rem 1rem;
+    vertical-align: middle;
 }
 
-#TitleDiv{
-    width:40.4vw;
-    height: 5vw;
-    float: left;
-    margin-right: 1vw;
-    margin-top: 1vw;
-    margin-bottom: 1vw;
-}
 
-#TextDiv1{
-    width:46.65vw;
-    max-height: 100%;
-    float: left;
-    margin-left: 1vw;
-    height: 17.65vw;
-}
 
-#TopLeft{
-    width:49vw;
-    height: 25vw;
-    float: left;
-}
-
-#TopRight{
-    width:49vw;
-    height: 23.85vw;
-    float: left;
-}
-
-#BottomLeft{
-    width:39vw;
-    height: 21vw;
-    float: left;
-}
-#BottomRight{
-    width:56.8vw;
-    height: 21vw;
-    float: left;
-    margin-top: 1vw;
-}
-
-.block{
-    border: solid rgb(0, 0, 0) 2px;
-}
-.blockT{
-    border: solid rgb(0, 0, 0) 2px;
-    margin-top: 1vw;
-}
-.blockD{
-    border: solid rgb(0, 0, 0) 2px;
-    margin-top: 1vw;
-    margin-left: 1vw;
-    margin-right: 1vw;
-    margin-bottom: 1vw;
-}
-
-#img1{
-    width: 49.9vw;
-    height: 24vw;
-    margin-top: 1vw;
-}
-#img2{
-    width: 37vw;
-    height: 23vw;
-    margin-left: 1vw;
-    margin-top: 1vw;
-}
-
-#img3{
-    width: 56.8vw;
-    height: 21vw;
-    flex-shrink: 0;
-    max-width: 100%;
-    max-height: 100%;
+.flex-parent-element {
+    display: flex;
+    width: 75%;
+    position: relative;
+    left: 12.5%;
 
 }
-#img4{
-    width: 46.8vw;
-    height: 17.8vw;
+  
+  .flex-child-element {
+    flex: 1;
+    margin: 10px;
+    height: auto;
+}
+  
 
-    flex-shrink: 0;
-    max-width: 100%;
-    max-height: 100%;
+  .flex-child-element:first-child {
+    margin-right: 25px;
+}
+  
+.flex-child-element img{
+    max-width: 100%; 
+    height: auto;
+}
+.flex-child-element p{
+    text-align: center;
+}
+#Title{
+    text-decoration: underline;
+    font-size: 300%;
+    padding-top: 2%;
+    margin-bottom: 6%;
+    margin-left: 5%;
+}
+.fade-in{
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
 }
 
-#marginbody{
-    margin: auto;
+
+.text {
+    display:flex;
+    align-items:center;
+    flex-direction: column;
+    justify-content: center;
 }
