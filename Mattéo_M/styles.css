@@ -43,3 +43,23 @@
     flex-direction: column;
     justify-content: center;
 }
+
+footer{
+    background-color: #252525;
+    margin-top: 7%;
+}
+
+.white {
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 10vh;
+}
+
+.img-dim{
+    width: 20%;
+    right: auto;
+}
+
+
