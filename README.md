@@ -70,7 +70,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 
 **Auteur : SOLTNER Audrick**  
 
-Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FAudrick_S%2Fpage.html)
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FAudrick_S%2Fpage.html)
 
 <br>
 <img src="ValidatorW3C/ValidIncident.png" alt="capture ecran sur w3c">

@@ -77,3 +77,15 @@ iframe{
   height: 100%;
   border-radius: 30px;
 }
+
+#page2{
+  background-image: url('cropped-WikoWall.png');
+  background-repeat: no-repeat;
+  background-size: 110%;
+}
+
+#page1{
+  background-image: url('History_Wiko.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
