@@ -76,3 +76,14 @@ hr{
     margin: 1vw;
     border: 0px;
 }
+
+#bas{
+    position:absolute;
+    height: 5vw;
+    width: 100%;
+    background-color: black;
+    border-color: yellow;
+    top: 120%;
+    color: white;
+    text-align: center;
+}
