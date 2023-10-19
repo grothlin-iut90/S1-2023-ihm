@@ -22,6 +22,11 @@ body {
   z-index: 0;
 }
 
+.page-link:hover{
+  width: 71.5vw;
+  height:39.6vw;
+}
+
 #leftButton{
   position: absolute;
   width: 4vw;
