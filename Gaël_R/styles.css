@@ -32,6 +32,8 @@ img{
 #Title{
     text-decoration: underline;
     font-size: 300%;
+    padding-top: 2%;
+    margin-bottom: 6%;
 }
 
 .fade-in {

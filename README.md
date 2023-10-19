@@ -14,7 +14,7 @@
 
 ## Présentation 
 
-Ce dépôt correspond à un site web créé en HTML/CSS/JS dans le cadre de la SAÉ 05-06 à l'IUT de Belfort-Montbéliard. Ce site présente des informations concernant l'entreprise Wiko et sert de vitrine pour présenter l'entreprise, ses activité, son organisation et son historique. Vous trouverez dans ce dépôt et sur le site un rapport économique analysant l'aspect économique de Wiko. <a href="rapport_économique.pdf" download>Rapport Économique</a>
+Ce dépôt correspond à un site web créé en HTML/CSS/JS dans le cadre de la SAÉ 05-06 à l'IUT de Belfort-Montbéliard. Ce site présente des informations concernant l'entreprise Wiko et sert de vitrine pour présenter l'entreprise, ses activité, son organisation et son historique. Vous trouverez dans ce dépôt et sur le site un <a href="rapport_économique.pdf" download>rapport économique</a> analysant l'aspect économique de Wiko. 
 Ce site comporte 5 pages dont un menu et quatre articles présentant des aspects différents de l'entreprise qui sont les suivant:
 - Le menu (RÖTHLIN Gaël, SOLTNER Audrick)
 - L’histoire de l’entreprise (RÖTHLIN Gaël)
@@ -70,7 +70,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 
 **Auteur : SOLTNER Audrick**  
 
-Verification W3C : [Détail ICI](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FAudrick_S%2Fpage.html)
+Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FAudrick_S%2Fpage.html)
 
 <br>
 <img src="ValidatorW3C/ValidIncident.png" alt="capture ecran sur w3c">
