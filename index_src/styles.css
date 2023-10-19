@@ -83,3 +83,9 @@ iframe{
   background-repeat: no-repeat;
   background-size: 100%;
 }
+
+#page1{
+  background-image: url('History_Wiko.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
