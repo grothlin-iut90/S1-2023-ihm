@@ -39,7 +39,7 @@ img{
     transition: opacity 1s ease-in-out; /* Vous pouvez ajuster la durée de l'effet ici */
 }
 
-p{
+p {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -91,7 +91,7 @@ p{
 @media (max-width: 1920px) {
     .barre {
         width: 10px;
-        height: 560vh;
+        height: 550vh;
         margin-top: -3.9vh;
     }
 }
@@ -108,3 +108,31 @@ p{
 .cercle:nth-child(10) { top: 84%; }
 .cercle:nth-child(11) { top: 91.5%; }
 .cercle:nth-child(12) { top: 99%; }
+
+footer{
+    background-color: #252525;
+    margin-top: 7%;
+}
+
+.white {
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 10vh;
+}
+
+.img-dim{
+    width: 20%;
+    right: auto;
+}
+
+
+.text-dim{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 10vh;
+    width: 80%;
+}
