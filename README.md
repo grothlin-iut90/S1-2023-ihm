@@ -14,7 +14,7 @@
 
 ## Présentation 
 
-Ce dépôt correspond à un site web créé en HTML/CSS/JS dans le cadre de la SAÉ 05-06 à l'IUT de Belfort-Montbéliard. Ce site présente des informations concernant l'entreprise Wiko et sert de vitrine pour présenter l'entreprise, ses activité, son organisation et son historique. Vous trouverez dans ce dépôt et sur le site un rapport économique analysant l'aspect économique de Wiko. <a href="rapport_économique.pdf" download>Rapport Économique</a>
+Ce dépôt correspond à un site web créé en HTML/CSS/JS dans le cadre de la SAÉ 05-06 à l'IUT de Belfort-Montbéliard. Ce site présente des informations concernant l'entreprise Wiko et sert de vitrine pour présenter l'entreprise, ses activité, son organisation et son historique. Vous trouverez dans ce dépôt et sur le site un <a href="rapport_économique.pdf" download>analysant l'aspect économique de Wiko. Rapport Économique</a>
 Ce site comporte 5 pages dont un menu et quatre articles présentant des aspects différents de l'entreprise qui sont les suivant:
 - Le menu (RÖTHLIN Gaël, SOLTNER Audrick)
 - L’histoire de l’entreprise (RÖTHLIN Gaël)
