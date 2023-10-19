@@ -10,15 +10,15 @@ let interval = 80;
 
 rightBtn.addEventListener("click", () => {
     if(offset<4){
-       offset +=1;
-        page_link_move(); 
+        offset +=1;
+        page_link_move();
     } 
 })
 
 leftBtn.addEventListener("click", () => {
-    if(offset>0){
-       offset -=1;
-        page_link_move(); 
+    if(offset>0){ 
+        offset -=1;
+        page_link_move();   
     } 
 })
 
@@ -28,6 +28,16 @@ function page_link_move(){
     pageLink2.style.left = (50-interval*offset+interval*2).toString() +"%";
     pageLink3.style.left = (50-interval*offset+interval*3).toString() +"%";
     pageLink4.style.left = (50-interval*offset+interval*4).toString() +"%";
+    if(offset==0){
+        rightBtn.style.opacity = 1;
+        leftBtn.style.opacity = 0.2;
+    }else if(offset==4){
+        leftBtn.style.opacity = 1;
+        rightBtn.style.opacity = 0.2;
+    }else{
+        leftBtn.style.opacity = 1;
+        rightBtn.style.opacity = 1;
+    }
 }
 
 setTimeout(page_link_move, 500);
