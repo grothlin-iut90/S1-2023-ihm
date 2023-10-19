@@ -81,3 +81,17 @@ img{
 blockquote{
     height: 100px;
 }
+
+footer{
+    width: 100%;
+    background-color: #252525;
+    color: white;
+    text-align: center;
+    display: block;
+    border: solid rgba(0,0,0,0) 1px;
+    float: right;
+}
+
+footer img{
+    width: 20%;
+}
