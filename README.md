@@ -68,7 +68,7 @@ Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&sho
 Verification W3C : [Détail ICI](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fgrothlin-iut90.github.io%2FWiko%2FTeddy_Z%2Fpageteddy.html)
 
 <br>
-<img src="ValidatorW3C/ValidHystory.png" width="400px" alt="capture ecran sur w3c">
+<img src="ValidatorW3C/ValidAnalyseEco.png" width="400px" alt="capture ecran sur w3c">
 
 ### Présentation des incidents et controverses
 
