@@ -104,7 +104,7 @@ body {
 .navbar .menu-items {
   padding-top: 120px;
   background-color: #252525;
-  height: 100vh;
+  height: 110vh;
   width: 300px;
   transform: translate(-150%);
   display:flex;
@@ -115,6 +115,8 @@ body {
   text-align: center;
   position: fixed;
   z-index: 2;
+  margin-top: 0%;
+  top:0%;
 }
 
 .navbar .menu-items li {
