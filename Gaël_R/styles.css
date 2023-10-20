@@ -93,7 +93,7 @@ p {
 @media (max-width: 1920px) {
     .barre {
         width: 10px;
-        height: 565vh;
+        height: 615 vh;
         margin-top: -5.8vh;
     }
 }
