@@ -55,7 +55,7 @@ body {
 #page0{
   background-image: url('logo-CodeMomentumBLACK.png');
   background-repeat: no-repeat;
-  background-size: 120%;
+  background-size: 100%;
 }
 
 #page3{
@@ -70,12 +70,6 @@ button {
   height: 4vw;
   border-radius: 50%;
   border-width: 5px;
-}
-
-iframe{
-  width: 100%;
-  height: 100%;
-  border-radius: 30px;
 }
 
 #page2{
@@ -94,4 +88,9 @@ iframe{
   background-image: url('VolDonnee.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
+}
+
+
+a:visited{
+  color: gray;
 }
